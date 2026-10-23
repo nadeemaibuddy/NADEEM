@@ -1,7 +1,4 @@
 
-planner
-https://l.instagram.com/?u=https%3A%2F%2Funchaoslab.com%2F%3Ffbclid%3DPAT01DUAUg74VwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp8SP0EQESzGb15vQ2sJuJ3SB8gRop-VUlVtQEL8K4RO2iAGxdwMcG0sphBUM_aem_LqGuewUT3CKhOVZXZzhGbg&e=AUDz_sARKN_lBGN0NY23TSqoR5XgHA_cFYPf8CPdg2Qi8QwS7xlNdB5XAkt6s71QjQkhpy7Ux2ebW3gPZ3TVP8bgENaLTCZdImaqT7aFmDbdq4WmO8F3uK1nog&s=1
-
 
 company wise dsa
 https://drive.google.com/drive/mobile/folders/108dgNSJxPMnu2_mYs6CT0JAtMYeZ993a?utm_source=sp_auto_dm&utm_referrer=sp_auto_dm&fbclid=PAT01DUAUEsbtwZG9mAmV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABpw8S-vc5qExFDtKsEKK5fjY_a4h9U2qxE9peaTDxN6n9xCZ1j0WemaMuE8X0_aem_T_prj8uLuniTXVE8ihT9bw
@@ -11,9 +8,12 @@ learn to code
 https://fluttering-artichoke-0e8.notion.site/Learn-to-Code-in-2026-3dfde014f74c819c9324f571438e4a59
 
 
-Git & GitHub Crash Course - freeCodeCamp
-https://www.youtube.com/watch?v=mAFoROnOfHs
 
 
 Python Mini Projects
 https://github.com/Python-World/python-mini-projects
+
+
+
+
+https://quickref.me/  --- cheat sheet
