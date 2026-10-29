@@ -48,3 +48,43 @@ int main()
    }
 }
 
+
+
+
+
+
+
+
+
+
+
+// #include<stdio.h>
+// int isprime(int n)
+// {
+//     if(n<2)
+//     {
+//         return 0;
+//     }
+//     for(int i=2;i*i<=n;i++)
+//     {
+//         if(n%i==0)
+//         {
+//             return 0;
+//         }
+//     }
+//     return 1;
+// }
+
+// int main()
+// {
+//     int x;
+//     scanf("%d",&x);
+//     int p=isprime(x);
+//     if(p==1)
+//     {
+//         printf("prime");
+//     }
+//     else{
+//         printf("not prime");
+//     }
+// }

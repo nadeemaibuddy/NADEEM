@@ -34,3 +34,30 @@ int main()
    printf("%d",gcd(x,y));
 
 }
+
+
+#include<stdio.h>
+// int gcd(int a,int b)
+// {
+//     while(b!=0)
+//     {
+//         int temp=b;
+//         b=a%b;
+//         a=temp;
+//     }
+//     return a;
+// }
+// int lcm(int a,int b)
+// {
+//     int l=(a/gcd(a,b))*b;
+//     return l;
+// }
+
+
+// int main()
+// {
+//     int x,y;
+//     scanf("%d %d",&x,&y);
+//     int r=lcm(x,y);
+//     printf("%d",r);
+// }

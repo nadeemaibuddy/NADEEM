@@ -8,7 +8,7 @@ int main()
     int x=n;
     if(n<0)
     {
-        printf("cant reverse");
+        printf("not palindrom");
     }
     else if(n==0)
     {
